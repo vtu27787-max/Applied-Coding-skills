@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -98,8 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
