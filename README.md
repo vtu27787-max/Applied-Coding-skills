@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0933-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
