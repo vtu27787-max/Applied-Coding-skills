@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vtu27787-max/Applied-Coding-skills/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
